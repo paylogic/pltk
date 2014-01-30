@@ -4,6 +4,14 @@ pltk: Paylogic toolkit
 The ``pltk`` package is a collection of useful tools for frameworks and other tools. At the moment there's only one
 set of them - flask related tools.
 
+.. image:: https://api.travis-ci.org/paylogic/pltk.png
+   :target: https://travis-ci.org/paylogic/pltk
+.. image:: https://pypip.in/v/pltk/badge.png
+   :target: https://crate.io/packages/pltk/
+.. image:: https://coveralls.io/repos/paylogic/pltk/badge.png?branch=master
+   :target: https://coveralls.io/r/paylogic/pltk
+
+
 Installation
 ------------
 
